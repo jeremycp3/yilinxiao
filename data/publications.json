@@ -1,26 +1,26 @@
 [
   {
-    "title": "AcaNova-X: A Modern and Elegant Academic Website Template",
-    "authors": "<strong>Your Name</strong>, Collaborator A, Collaborator B",
-    "venue": "CVPR 2025",
-    "year": "2025",
-    "highlight": "Oral",
-    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
+    "title": "LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora.",
+    "authors": "Luyao Zhuang†, Shengyuan Chen, Yilin Xiao, Huachi Zhou‡, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang.",
+    "venue": "ICLR 2026",
+    "year": "2026",
+//    "highlight": "Oral",
+//    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
     "tags": [
-      { "text": "Paper", "link": "#" },
-      { "text": "Code", "link": "#" },
-      { "text": "Project Page", "link": "#" }
+      { "text": "Paper", "link": "https://arxiv.org/abs/2510.10114" },
+      { "text": "Code", "link": "https://github.com/DEEP-PolyU/LinearRAG" }
+//      { "text": "Project Page", "link": "#" }
     ]
   },
   {
-    "title": "Another Great Research Work on Machine Learning",
-    "authors": "Collaborator A, <strong>Your Name</strong>, Collaborator B",
-    "venue": "NeurIPS 2024",
-    "year": "2024",
-    "highlight": "Spotlight",
+    "title": "Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs",
+    "authors": "Yilin Xiao, Chuang Zhou, Qinggang Zhang, Bo Li, Qing Li, Xiao Huang.",
+    "venue": "TKDE 2026",
+    "year": "2026",
+//    "highlight": "Spotlight",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "#" }
+      { "text": "Paper", "link": "https://www.computer.org/csdl/journal/tk/5555/01/11361203/2dumcrgIQc8" }
     ]
   }
 ]

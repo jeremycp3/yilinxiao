@@ -1,14 +1,18 @@
 [
   {
-    "date": "2025-01-01",
-    "content": "Welcome to my new academic homepage! This template is available on GitHub.",
-    "links": [
-        { "text": "GitHub", "url": "https://github.com/yihangtao/AcaNova-X" }
+     "date": "2026-01-26",
+     "content": "Our LinearRAG was accepted to ICLR'2026.",
+     "links": [
+        { "text": "[Paper|", "url": "https://arxiv.org/abs/2510.10114" },
+       {"text": "|Github]", "url": "https://github.com/DEEP-PolyU/LinearRAG"}
     ]
   },
   {
-     "date": "2024-12-15",
-     "content": "One paper titled 'A Novel Approach to AI' was accepted to CVPR 2025!",
-     "links": []
+    "date": "2026-01-19",
+    "content": "Our RRP, a graph-augmented LLM Reasoning framework, was accepted to IEEE TKDE.",
+    "links": [
+        { "text": "Link.", "url": "https://www.computer.org/csdl/journal/tk/5555/01/11361203/2dumcrgIQc8" }
+    ]
   }
+
 ]
