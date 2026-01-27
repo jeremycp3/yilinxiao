@@ -8,7 +8,7 @@
     "thumbnail": "assets/publications/placeholder/paper-thumb.png",
     "tags": [
       { "text": "Paper", "link": "https://arxiv.org/abs/2510.10114" },
-      { "text": "Code", "link": "https://github.com/DEEP-PolyU/LinearRAG" }
+      { "text": "Code", "link": "https://github.com/DEEP-PolyU/LinearRAG" },
       { "text": "Project Page", "link": "#" }
     ]
   },
