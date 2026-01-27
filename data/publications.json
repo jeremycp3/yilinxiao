@@ -4,12 +4,12 @@
     "authors": "Luyao Zhuang†, Shengyuan Chen, Yilin Xiao, Huachi Zhou‡, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang.",
     "venue": "ICLR 2026",
     "year": "2026",
-//    "highlight": "Oral",
-//    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
+    "highlight": "",
+    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
     "tags": [
       { "text": "Paper", "link": "https://arxiv.org/abs/2510.10114" },
       { "text": "Code", "link": "https://github.com/DEEP-PolyU/LinearRAG" }
-//      { "text": "Project Page", "link": "#" }
+      { "text": "Project Page", "link": "#" }
     ]
   },
   {
@@ -17,7 +17,7 @@
     "authors": "Yilin Xiao, Chuang Zhou, Qinggang Zhang, Bo Li, Qing Li, Xiao Huang.",
     "venue": "TKDE 2026",
     "year": "2026",
-//    "highlight": "Spotlight",
+    "highlight": "",
     "thumbnail": "",
     "tags": [
       { "text": "Paper", "link": "https://www.computer.org/csdl/journal/tk/5555/01/11361203/2dumcrgIQc8" }
