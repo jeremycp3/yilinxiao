@@ -1,7 +1,7 @@
 [
   {
     "title": "LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora.",
-    "authors": "Luyao Zhuang, Shengyuan Chen, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang.",
+    "authors": "Luyao Zhuang*, Shengyuan Chen*, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang.",
     "venue": "ICLR 2026",
     "year": "2026",
     "highlight": "#",
@@ -17,9 +17,21 @@
     "venue": "TKDE 2026",
     "year": "2026",
     "highlight": "#",
-    "thumbnail": "#",
+    "thumbnail": "assets/publications/placeholder/RRP_thumb.png",
     "tags": [
       { "text": "Paper", "link": "https://www.computer.org/csdl/journal/tk/5555/01/11361203/2dumcrgIQc8" }
+    ]
+  },
+  {
+    "title": "LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation",
+    "authors": "Yilin Xiao*, Jin Chen*, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang.",
+    "venue": "ACL 2026",
+    "year": "2026",
+    "highlight": "#",
+    "thumbnail": "assets/publications/placeholder/logicpoison_thumb.png",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/abs/2604.02954" },
+      { "text": "Code", "link": "https://github.com/Jord8061/logicPoison" }
     ]
   }
 ]
