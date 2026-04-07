@@ -5,7 +5,7 @@
     "venue": "ICLR 2026",
     "year": "2026",
     "highlight": "#",
-    "thumbnail": "#",
+    "thumbnail": "assets/publications/placeholder/linearrag_thumb.png",
     "tags": [
       { "text": "Paper", "link": "https://arxiv.org/abs/2510.10114" },
       { "text": "Code", "link": "https://github.com/DEEP-PolyU/LinearRAG" }
@@ -25,7 +25,7 @@
   {
     "title": "LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation",
     "authors": "Yilin Xiao*, Jin Chen*, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang.",
-    "venue": "ACL 2026",
+    "venue": "ACL 2026 (Oral)",
     "year": "2026",
     "highlight": "#",
     "thumbnail": "assets/publications/placeholder/logicpoison_thumb.png",
