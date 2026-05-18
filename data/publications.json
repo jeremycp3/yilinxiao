@@ -1,17 +1,17 @@
 [
-  {
-    "title": "LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora.",
-    "authors": "Luyao Zhuang*, Shengyuan Chen*, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang.",
-    "venue": "ICLR 2026",
+    {
+    "title": "LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation",
+    "authors": "Yilin Xiao*, Jin Chen*, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang.",
+    "venue": "ACL 2026 (Oral)",
     "year": "2026",
     "highlight": "#",
-    "thumbnail": "assets/publications/placeholder/linearrag_thumb.png",
+    "thumbnail": "assets/publications/placeholder/logicpoison_thumb.png",
     "tags": [
-      { "text": "Paper", "link": "https://arxiv.org/abs/2510.10114" },
-      { "text": "Code", "link": "https://github.com/DEEP-PolyU/LinearRAG" }
+      { "text": "Paper", "link": "https://arxiv.org/abs/2604.02954" },
+      { "text": "Code", "link": "https://github.com/Jord8061/logicPoison" }
     ]
   },
-  {
+    {
     "title": "Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs",
     "authors": "Yilin Xiao, Chuang Zhou, Qinggang Zhang, Bo Li, Qing Li, Xiao Huang.",
     "venue": "TKDE 2026",
@@ -23,15 +23,15 @@
     ]
   },
   {
-    "title": "LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation",
-    "authors": "Yilin Xiao*, Jin Chen*, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang.",
-    "venue": "ACL 2026 (Oral)",
+    "title": "LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora.",
+    "authors": "Luyao Zhuang*, Shengyuan Chen*, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang.",
+    "venue": "ICLR 2026",
     "year": "2026",
     "highlight": "#",
-    "thumbnail": "assets/publications/placeholder/logicpoison_thumb.png",
+    "thumbnail": "assets/publications/placeholder/linearrag_thumb.png",
     "tags": [
-      { "text": "Paper", "link": "https://arxiv.org/abs/2604.02954" },
-      { "text": "Code", "link": "https://github.com/Jord8061/logicPoison" }
+      { "text": "Paper", "link": "https://arxiv.org/abs/2510.10114" },
+      { "text": "Code", "link": "https://github.com/DEEP-PolyU/LinearRAG" }
     ]
   }
 ]
